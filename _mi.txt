@@ -1,0 +1,5 @@
+/.htaccess
+main.js
+index.php
+main.css
+pages/**

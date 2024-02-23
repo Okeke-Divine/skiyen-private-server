@@ -1,0 +1,3 @@
+RewriteEngine On
+
+RewriteRule ^chat_with chat-with-user.php

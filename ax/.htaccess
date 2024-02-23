@@ -1,0 +1,6 @@
+RewriteEngine On
+
+RewriteRule ^send_message send-message.php
+RewriteRule ^fetch_messages fetch-messages.php
+RewriteRule ^last_seen last-seen.php
+RewriteRule ^last_activity last-activity.php

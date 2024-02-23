@@ -1,0 +1,9 @@
+RewriteEngine On
+
+RewriteRule ^login login.php
+RewriteRule ^logout logout.php
+
+RewriteRule ^axP/home pages/home.php
+RewriteRule ^axP/myprofile pages/my_profile_view.php
+RewriteRule ^axP/messages pages/list_user_for_msg_.php
+RewriteRule ^right_content1 pages/_right_content1.php
